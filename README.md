@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HassanA01
+- 👋 Hi, I’m Aneeq
 - 📫 How to reach me aneeq.hassan@utoronto.ca
 
 <!---
