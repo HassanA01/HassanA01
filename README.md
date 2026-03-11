@@ -51,5 +51,5 @@ Currently building AI-powered solutions at [`Dayforce`](https://www.dayforce.com
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HassanA01&theme=tokyonight&hide_border=true&background=0d1117" height="165" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HassanA01&theme=tokyonight&hide_border=true&background=0d1117&v=2" height="165" alt="streak" />
 </p>
