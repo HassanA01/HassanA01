@@ -13,7 +13,7 @@ Currently a swe at [`Stripe`](https://stripe.com/), a financial infrastructure p
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,go,java,c,r" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,go,java,c,r,rust" />
 </p>
 
 **Frontend**
