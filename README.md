@@ -4,7 +4,7 @@
 
 AI Software Engineer · UofT Computer Science (HBSc)
 
-Currently building AI-powered solutions at [`Dayforce`](https://www.dayforce.com/), a global leader in human capital management.
+Currently working as a Software Engineer at [`Stripe`](https://stripe.com/), a financial infrastructure platform for businesses.
 
 ---
 
