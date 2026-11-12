@@ -2,9 +2,9 @@
 
 # Aneeq Hassan
 
-AI Software Engineer · UofT Computer Science (HBSc)
+AI Engineer · Software Engineer · UofT Computer Science (HBSc)
 
-Currently working as a Software Engineer at [`Stripe`](https://stripe.com/), a financial infrastructure platform for businesses.
+Currently a swe at [`Stripe`](https://stripe.com/), a financial infrastructure platform for businesses.
 
 ---
 
